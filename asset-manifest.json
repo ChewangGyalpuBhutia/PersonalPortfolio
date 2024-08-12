@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/PersonalPortfolio/static/css/main.742eb87f.css",
+    "main.js": "/PersonalPortfolio/static/js/main.4feb3dfd.js",
+    "static/js/787.1ed0c42c.chunk.js": "/PersonalPortfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/color-sharp.png": "/PersonalPortfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/PersonalPortfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/chewang.png": "/PersonalPortfolio/static/media/chewang.b9b1847ecb528a60ced2.png",
+    "static/media/indiabiztimes.png": "/PersonalPortfolio/static/media/indiabiztimes.6e1bd8b8271ed04bc46f.png",
+    "static/media/weatherForecast.png": "/PersonalPortfolio/static/media/weatherForecast.aa1e54111e8f5967a099.png",
+    "static/media/pincode.png": "/PersonalPortfolio/static/media/pincode.34195ce1de7125d53831.png",
+    "static/media/googlepay.png": "/PersonalPortfolio/static/media/googlepay.8c029e003365e7ce29cc.png",
+    "static/media/banner-bg.png": "/PersonalPortfolio/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/educred.png": "/PersonalPortfolio/static/media/educred.3fad20db25e86b531c0d.png",
+    "static/media/CentraNo2-Bold.ttf": "/PersonalPortfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/PersonalPortfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/PersonalPortfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/qr.png": "/PersonalPortfolio/static/media/qr.3c4a4ef3230f2b0110ac.png",
+    "static/media/footer-bg.png": "/PersonalPortfolio/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/logo.png": "/PersonalPortfolio/static/media/logo.487b48498259ae4ab956.png",
+    "static/media/revicons.eot": "/PersonalPortfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/PersonalPortfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/PersonalPortfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/nav-icon3.svg": "/PersonalPortfolio/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "index.html": "/PersonalPortfolio/index.html",
+    "static/media/nav-icon1.svg": "/PersonalPortfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/nav-icon2.svg": "/PersonalPortfolio/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.742eb87f.css.map": "/PersonalPortfolio/static/css/main.742eb87f.css.map",
+    "main.4feb3dfd.js.map": "/PersonalPortfolio/static/js/main.4feb3dfd.js.map",
+    "787.1ed0c42c.chunk.js.map": "/PersonalPortfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.742eb87f.css",
+    "static/js/main.4feb3dfd.js"
+  ]
+}
