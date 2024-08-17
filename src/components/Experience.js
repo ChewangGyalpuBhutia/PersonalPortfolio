@@ -6,7 +6,7 @@ import Rewardwise from "../assets/img/logo.png";
 
 export const Experience = () => {
     return (
-        <section className="Experience" id="Experience">
+        <section className="experience" id="experience">
             <div className='container'>
                 <h2 className='header'>Experience</h2>
                 <div>

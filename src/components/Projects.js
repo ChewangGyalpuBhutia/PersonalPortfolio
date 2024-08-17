@@ -26,11 +26,66 @@ export const Projects = () => {
         "HTML",
         "Node JS",
       ],
-      github: "https://github.com/Zorothecoder/IndiaBizTimes-A-News-Application.git",
-      website: "https://zorothecoder.github.io/IndiaBizTimes-A-News-Application/",
+      github: "https://github.com/ChewangGyalpuBhutia/IndiaBizTimes.git",
+      website: "https://chewanggyalpubhutia.github.io/IndiaBizTimes/",
     },
     {
       id: 1,
+      title: "Google Pay Clone",
+      agenda: "Clone application",
+      date: "September 2023 to November 2023",
+      description: "This is a clone of the Google Pay application. This is just a demonstration of the pay app, which utilizes sessions for secure data storage",
+      image: projImg3,
+      tags: [
+        "React JS",
+        "Bootstrap",
+        "CSS",
+        "HTML",
+        "Sessions"
+      ],
+      github: "https://github.com/ChewangGyalpuBhutia/GooglePayClone.git",
+      website: "https://chewanggyalpubhutia.github.io/GooglePayClone/",
+    },
+    {
+      id: 2,
+      title: "Indian Weather Forecast",
+      agenda: "Weather Forecasting Application",
+      date: "May 2022 to July 2022",
+      description: "A weather forecasting application that provides information about weather as well as weather forecasts for up to 5 days at a selected location in India",
+      image: projImg5,
+      tags: [
+        "React JS",
+        "weather API",
+        "Forecast API",
+        "Geo-location API",
+        "Bootstrap",
+        "CSS",
+        "HTML",
+      ],
+      github: "https://github.com/ChewangGyalpuBhutia/WeatherForecast",
+      website: "https://chewanggyalpubhutia.github.io/WeatherForecast/",
+    },
+
+    {
+      id: 3,
+      title: "QR Application",
+      agenda: "Qr scanner and generator",
+      date: "May 2023 to June 2023",
+      description: "This is simple application which provides features like generating QRs and scanning QR",
+      image: projImg4,
+      tags: [
+        "QR library",
+        "Bootstrap",
+        "CSS",
+        "HTML",
+        "Express JS",
+        "My Sql"
+      ],
+      github: "https://github.com/ChewangGyalpuBhutia/QrScannerAndGenerator",
+      website: "https://chewanggyalpubhutia.github.io/QrScannerAndGenerator/",
+    },
+    {
+      id: 4,
       title: "EDUCRED",
       agenda: "Student Rewarding Framework",
       date: "May 2023 to August 2023",
@@ -47,63 +102,10 @@ export const Projects = () => {
         "PHP MyAdmin",
         "PWA"
       ],
-      github: "https://github.com/Zorothecoder/EduCred",
+      github: "https://github.com/ChewangGyalpuBhutia/EduCred.git",
       website: "https://educ-red.000webhostapp.com/",
     },
-    {
-      id: 2,
-      title: "Google Pay Clone",
-      agenda: "Clone application",
-      date: "September 2023 to November 2023",
-      description: "This is a clone of the Google Pay application. This is just a demonstration of the pay app, which utilizes sessions for secure data storage",
-      image: projImg3,
-      tags: [
-        "React JS",
-        "Bootstrap",
-        "CSS",
-        "HTML",
-        "Sessions"
-      ],
-      github: "https://github.com/Zorothecoder/GooglePay_Clone",
-      website: "https://zorothecoder.github.io/GooglePay_Clone/",
-    },
-    {
-      id: 3,
-      title: "QR Application",
-      agenda: "Qr scanner and generator",
-      date: "May 2023 to June 2023",
-      description: "This is simple application which provides features like generating QRs and scanning QR",
-      image: projImg4,
-      tags: [
-        "QR library",
-        "Bootstrap",
-        "CSS",
-        "HTML",
-        "Express JS",
-        "My Sql"
-      ],
-      github: "https://github.com/Zorothecoder/qr-code-scanner-and-generator",
-      website: "https://zorothecoder.github.io/qr-code-scanner-and-generator/",
-    },
-    {
-      id: 4,
-      title: "Indian Weather Forecast",
-      agenda: "Weather Forecasting Application",
-      date: "May 2022 to July 2022",
-      description: "A weather forecasting application that provides information about weather as well as weather forecasts for up to 5 days at a selected location in India",
-      image: projImg5,
-      tags: [
-        "React JS",
-        "weather API",
-        "Forecast API",
-        "Geo-location API",
-        "Bootstrap",
-        "CSS",
-        "HTML",
-      ],
-      github: "https://github.com/Zorothecoder/IndiaWeatherForecast/",
-      website: "https://zorothecoder.github.io/IndiaWeatherForecast/",
-    },
+
     {
       id: 5,
       title: "ZIP Code Application",
@@ -119,8 +121,8 @@ export const Projects = () => {
         "HTML",
         "JavaScript"
       ],
-      github: "https://github.com/Zorothecoder/ZipInfo",
-      website: "https://zorothecoder.github.io/ZipInfo/",
+      github: "",
+      website: "",
     },
   ];
 
@@ -132,7 +134,7 @@ export const Projects = () => {
           <p>Check out my projects below</p>
           <div className="border-bottom"></div>
         </div>
-        <div className="project-cards d-flex flex-wrap" style={{gap: '28px'}}>
+        <div className="project-cards d-flex flex-wrap" style={{ gap: '28px' }}>
           {
             projects.map((project) => {
               return (
