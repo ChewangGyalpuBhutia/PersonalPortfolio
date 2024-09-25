@@ -7,6 +7,7 @@ import projImg4 from "../assets/img/qr.png";
 import projImg5 from "../assets/img/weatherForecast.png";
 import projImg6 from "../assets/img/pincode.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
+import ChatBot from "../assets/img/Chatbot.png";
 import 'animate.css';
 
 export const Projects = () => {
@@ -28,6 +29,24 @@ export const Projects = () => {
       ],
       github: "https://github.com/ChewangGyalpuBhutia/IndiaBizTimes.git",
       website: "https://chewanggyalpubhutia.github.io/IndiaBizTimes/",
+    },
+    {
+      title: "AI Chatbot",
+      agenda: "ChatBot powered by LLM",
+      date: "June 2024 to July 2024",
+      description: "Built a chatbot powered by LLM to demonstrate AI integration capabilities..",
+      image: ChatBot,
+      tags: [
+        "Django",
+        "OpenAI API",
+        "Docker",
+        "Route 53",
+        "EC2",
+        "Bootstrap",
+      ],
+      github: "https://github.com/ChewangGyalpuBhutia/ChatBot.git",
+      website: "",
+
     },
     {
       id: 1,

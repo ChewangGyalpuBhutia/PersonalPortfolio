@@ -33,19 +33,19 @@ export const Experience = () => {
                                     </div>
                                     <p className="timeline-details">
 
-                                        As a full-time Full Stack Developer, I design user interfaces, establish microservices using AWS, develop websites, implement REST APIs with Django, and manage CI/CD pipelines to ensure scalable and efficient application delivery.
+                                    As a Full Stack Developer, I design intuitive user interfaces, build and manage microservices using AWS, develop websites, implement REST APIs with Django, and oversee CI/CD pipelines to ensure scalable and efficient application delivery. I contributed to the development of an Android application using React Native for the frontend and Django for the backend, implementing OTP authentication for secure user logins. I also integrated email and OTP login functionality and developed a KYC verification module for user identity validation. Additionally, I played a key role in web development and managed deployments via AWS to ensure smooth, scalable operations.
                                     </p>
                                 </div>
                             </li>
-                            <li className="timeline-item mb-5">
+                            {/* <li className="timeline-item mb-5">
                                 <div className='cards'>
                                     <h5 className="fw-bold">Full Stack Developer Intern</h5>
                                     <p className="timeline-details mb-2 fw-bold">Rewardwise.co<br />01 February 2024 - 31 July 2024</p>
                                     <p className="timeline-details">
-                                        During my internship, I contributed to developing an Android application with React Native for the frontend and Django for the backend. I implemented OTP authentication for secure user logins, integrated email and OTP login functionality, and created a KYC verification module for user identity validation. Additionally, I was involved in web development and managed deployment through AWS to ensure smooth and scalable operations.
+                                        During my internship, 
                                     </p>
                                 </div>
-                            </li>
+                            </li> */}
                         </ul>
                     </MDBContainer>
                 </div>
